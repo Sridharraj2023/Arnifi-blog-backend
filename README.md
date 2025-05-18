@@ -44,15 +44,13 @@ npm run dev
 The backend server will run on http://localhost:5000 (or the port you set).
 
 
----
-
 ### Explanation
 
 - Use `##` or `###` for headers (with a space after the hashes).  
 - Use triple backticks with language identifiers for syntax highlighting:  
-  - ```bash for shell commands  
-  - ```env for environment variable files  
-  - ```js or ```javascript for JavaScript code (if you add code snippets)  
+  - bash for shell commands  
+  - env for environment variable files  
+  - js or ```javascript for JavaScript code (if you add code snippets)  
 
 This way your README renders clean, with **highlighted commands and config** sections, and visually distinct headers.
 
